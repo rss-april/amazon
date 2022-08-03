@@ -1,3 +1,2 @@
-Activity file``
-hello
+Activity file
 This file contains activity information
